@@ -1,0 +1,1 @@
+**El contenido del archivo `.github/consultas.md` corresponde a ejercicios de la materia realizados por inteligencia artificial. Cuidado con su uso.**
