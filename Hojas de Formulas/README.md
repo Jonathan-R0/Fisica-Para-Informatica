@@ -1,0 +1,1 @@
+**Ojo con estas fórmulas**: Algunas fórmulas pueden estar erroneas o desactualizadas. Siempre verifica su exactitud antes de usarlas.
