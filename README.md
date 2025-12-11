@@ -41,3 +41,38 @@ Para esta guía se pueden ver los videos de [esta playlist](https://www.youtube.
 Dios bendiga a la profesora Lucrecia por grabar estas clases. Se pueden ver en [esta playlist los videos teóricos](https://www.youtube.com/watch?v=0QltzCV1CZo&list=PLZ9Lairv2wUdJtwf6ObwdLdaB5cZ7O1Zw) y [acá los videos de las prácticas](https://www.youtube.com/watch?v=KUbvvlN0vhc&list=PLZ9Lairv2wUctaaIvNChKzduq6y0LXQKIk).
 
 Física para Informática se presenta como una materia de 4 créditos, pero si se sigue mi recomendación de ver estas clases, la materia pasaría a tener el peso equivalente a una materia de 8 créditos. Esto se aproxima más a la carga real de la materia.
+
+### Clases Grabadas
+
+Links a las clases grabadas que encontré:
+
+- [Clase 1](https://www.youtube.com/watch?v=VB9AXmpAEXk)
+
+- [Clase 2](https://www.youtube.com/watch?v=m5gmczlzgwo)
+
+- [Clase 3](https://www.youtube.com/watch?v=e9cDVyYQb3I)
+
+- [Clase 4](https://www.youtube.com/watch?v=NvBYCTqSDjo)
+
+- [Clase 5](https://www.youtube.com/watch?v=EiD0ZleZ18g)
+
+- [Clase 6](https://www.youtube.com/watch?v=zhY-_EFNVZA)
+
+- [Clase 7](https://www.youtube.com/watch?v=vM4nFYdrfNU)
+
+- [Clase 8](https://www.youtube.com/watch?v=GxUIPHX1Msk)
+
+- [Clase 9](https://www.youtube.com/watch?v=TngUiTQA0bs)
+
+- [Clase 10](https://www.youtube.com/watch?v=litCWsEm0MI)
+
+- [Clase 11](https://www.youtube.com/watch?v=2XDWeyGAZBc)
+
+### Material Adicional
+
+Repositorios y drives con material adicional 🙏:
+
+- https://drive.google.com/drive/u/1/folders/15HDHNynnYMbuEZ_YpTmkyjSzckFixZpZ
+- https://github.com/gcc-cdimatteo/Fisica-II-A-62.03/tree/main
+- https://github.com/anagutson/Fisica-II/tree/main (tiene buenos resueltos)
+- https://drive.google.com/drive/u/1/folders/1xcAYbpXpvv3yJaqWr2zeEVy0Tovjm2FW
