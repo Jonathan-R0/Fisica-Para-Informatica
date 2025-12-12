@@ -38,7 +38,7 @@ Para esta guía se pueden ver los videos de [esta playlist](https://www.youtube.
 
 ### Videos Segunda Parte
 
-Dios bendiga a la profesora Lucrecia por grabar estas clases. Se pueden ver en [esta playlist los videos teóricos](https://www.youtube.com/watch?v=0QltzCV1CZo&list=PLZ9Lairv2wUdJtwf6ObwdLdaB5cZ7O1Zw) y [acá los videos de las prácticas](https://www.youtube.com/watch?v=KUbvvlN0vhc&list=PLZ9Lairv2wUctaaIvNChKzduq6y0LXQKIk).
+Dios bendiga a la profesora Lucrecia por grabar estas clases. Se pueden ver en [esta playlist los videos teóricos](https://www.youtube.com/watch?v=0QltzCV1CZo&list=PLZ9Lairv2wUdJtwf6ObwdLdaB5cZ7O1Zw) y [acá los videos de las prácticas](https://www.youtube.com/watch?v=KUbvvlN0vhc&list=PLZ9Lairv2wUctaaIvNChKzduq6y0LXQKI).
 
 Física para Informática se presenta como una materia de 4 créditos, pero si se sigue mi recomendación de ver estas clases, la materia pasaría a tener el peso equivalente a una materia de 8 créditos. Esto se aproxima más a la carga real de la materia.
 
