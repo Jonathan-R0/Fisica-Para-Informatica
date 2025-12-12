@@ -1,4 +1,4 @@
-# Fisica-Para-Informatica
+# Fisica Para Informatica
 
 ## Aviso por el Contenido
 
