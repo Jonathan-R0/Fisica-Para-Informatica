@@ -2,7 +2,7 @@
 
 ## Aviso por el Contenido
 
-Este repositorio contiene mucho material que no es mío y que fui recolectando a lo largo del cuatrimestre. Si querés que te de baja algún material, que te mencione como autor o que arregle algún error, por favor abrí un issue o mandame un mensaje. **Antes de arrancar a hacer cualquier cosa de esta materia, por favor leé todo el README.**
+Este repositorio contiene mucho material que no es mío y que fui recolectando a lo largo del cuatrimestre. Si querés que borre algún material, que te mencione como autor o que arregle algún error, por favor abrí un issue o mandame un mensaje. **Antes de arrancar a hacer cualquier cosa de esta materia, por favor leé todo el README.**
 
 ## Antes de Cursar
 
