@@ -28,7 +28,7 @@ El primer TP es sobre cinemática y dinámica de partículas y el segundo TP es 
 
 Para los parciales se puede llevar una hoja de fórmulas de dos carillas. Recomiendo confeccionar la misma el último día antes del parcial con todas las fórmulas importantes remarcadas de tus apuntes (ojo que puede llevar bastante tiempo hacer esto). Particularmente para el segundo parcial, que el volumen de fórmulas es bastante más grande, recomiendo comprar un fibrón de punta fina para escribir bien chiquito y aprovechar al máximo el espacio.
 
-Los ejercicios prácticos que se evaluan son relativamente similares a los ejercicios de las guías. Los ejercicios teóricos son bastante más variados y consisten generalmente de afirmar o negar ciertas proposiciones. Recomiendo para sacar estos ejercicios prestar mucha atención a las clases teóricas. También se suelen tomar ejercicios donde hay que realizar demostraciones de ciertas fórmulas o leyes importantes, por lo que recomiendo prestar atención a las mismas en clase y no saltarlas para llegar a la fórmula final; pueden ser potenciales puntos fáciles de sacar.
+Los ejercicios prácticos que se evaluan son relativamente similares a los ejercicios de las guías. Los ejercicios teóricos son bastante más variados y consisten generalmente de demostrar o negar ciertas proposiciones. Recomiendo para sacar estos ejercicios prestar mucha atención a las clases teóricas. También se suelen tomar ejercicios donde hay que realizar demostraciones de ciertas fórmulas o leyes importantes, por lo que recomiendo prestar atención a las mismas en clase y no saltarlas para llegar a la fórmula final; pueden ser potenciales puntos fáciles de sacar.
 
 ## Material Extra
 
