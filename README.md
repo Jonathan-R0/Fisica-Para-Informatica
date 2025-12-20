@@ -22,7 +22,7 @@ Para la segunda parte de la materia recomiendo ver [las clases grabadas de Físi
 
 Al cuatrimestre que yo cursé, la materia tenía 2 trabajos prácticos obligatorios. Ambos trabajos prácticos son bastante sencillos pero se pueden complicar si no se entienden bien los temas. Recomiendo hacerlos con tiempo y no dejarlos para el final.
 
-El primer TP es sobre cinemática y dinámica de partículas y el segundo TP es sobre circuitos eléctricos. Para el segundo TP recomiendo tener aceitada la materia hasta la parte de corriente continua inclusive, sino se va a complicar mucho tomar las medidas.
+El primer TP es sobre cinemática y dinámica de partículas y el segundo TP es sobre circuitos eléctricos. Para el segundo TP recomiendo tener aceitada la materia hasta la parte de corriente continua inclusive, sino se va a complicar mucho tomar las mediciones.
 
 ## Parciales
 
